@@ -1,12 +1,12 @@
 <!-- Animated Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Mohammed%20Farhan%20K&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohammed%20Farhan%20K&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">Hi 👋, I'm Mohammed Farhan</h1>
 <h3 align="center">AI & Data Science Student | Software Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Enthusiast;Python+Developer;Web+Developer;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Developer;Machine+Learning+Enthusiast;Python+Developer;Java+Developer;Web+Developer"/>
 </p>
 
 ---
@@ -15,8 +15,8 @@
 
 * 🎓 MCA Student
 * 🤖 Interested in **AI & Data Science**
-* 💻 Building projects using **Python, Machine Learning & Web Technologies**
-* 🚀 Passionate about **problem solving & software development**
+* 💻 Working with **Python, Java, Machine Learning & Web Development**
+* 🚀 Passionate about **software development and problem solving**
 * 🌱 Currently learning **Deep Learning & Advanced ML**
 
 ---
@@ -24,7 +24,9 @@
 # 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,git,github,mysql,tensorflow,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,nodejs,git,github,mysql,tensorflow,vscode"/>
+
 </p>
 
 ---
@@ -32,8 +34,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farhan-kalady&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-kalady&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farhan-kalady&show_icons=true&theme=tokyonight&cache_seconds=60"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-kalady&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=60"/>
+
 </p>
 
 ---
@@ -41,7 +46,9 @@
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com/?user=Farhan-kalady&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -49,7 +56,19 @@
 # 🏆 GitHub Achievements
 
 <p align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=Farhan-kalady&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhan-kalady&theme=tokyo-night"/>
+
 </p>
 
 ---
@@ -58,27 +77,19 @@
 
 ### 🎬 Netflix Clone
 
-A responsive Netflix UI clone built using HTML, CSS and JavaScript.
+Responsive Netflix UI clone built using **HTML, CSS and JavaScript**
 
 ### 🧠 DeepFake Detection
 
-Machine learning model for detecting deepfake videos using Python.
+Machine learning project for detecting deepfake videos using **Python**
 
 ### 🧮 BMI Calculator
 
-Simple BMI calculator web app built using HTML, CSS and JavaScript.
+Web based BMI calculator using **HTML, CSS, JavaScript**
 
 ### 📋 To-Do List App
 
-Task management application built using JavaScript.
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhan-kalady&theme=tokyo-night"/>
-</p>
+Simple task management application using **JavaScript**
 
 ---
 
@@ -101,7 +112,9 @@ Task management application built using JavaScript.
 # 👀 Profile Views
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Farhan-kalady&label=Profile%20views&color=0e75b6&style=flat"/>
+
 </p>
 
 ---
