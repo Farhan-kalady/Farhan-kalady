@@ -31,17 +31,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farhan-kalady&show_icons=true&theme=tokyonight&cache_seconds=60"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhan-kalady&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=60"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -56,15 +46,7 @@
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhan-kalady&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 📌 Featured Projects
 
