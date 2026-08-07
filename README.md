@@ -101,6 +101,25 @@ class MohammedFarhan:
 
 ## 🚀 Featured Projects
 
+---
+
+### 🧠 MindTrack AI
+
+**Tech Stack:** Python, FastAPI, React.js, Machine Learning, NLP, MongoDB
+
+* AI-powered mental wellness and mood tracking platform
+* Analyzes journal entries and user interactions to identify emotional patterns
+* Provides personalized insights and wellness recommendations
+* Interactive dashboard for tracking mood trends and progress
+* Secure authentication and user data management
+* RESTful API with scalable backend architecture
+
+🔗 Repository:
+https://github.com/Farhan-kalady/MindTrack-AI
+
+---
+
+
 ### 🎭 Deep Fake Detection
 
 **Tech Stack:** Python, OpenCV, TensorFlow, Keras, CNN, Streamlit
